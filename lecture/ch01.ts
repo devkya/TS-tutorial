@@ -7,7 +7,7 @@ let fruit :string | number = 'apple';
 type MyType = string | number;
 let animal :MyType = 123;
 
-function myFunction(x :number) :number{
+function myFunction12(x :number) :number{
     return x * 2
 }
 

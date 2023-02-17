@@ -4,7 +4,7 @@ var nameArr = ['kim', 'park'];
 var obj = { name: 'kim' };
 var fruit = 'apple';
 var animal = 123;
-function myFunction(x) {
+function myFunction12(x) {
     return x * 2;
 }
 var john = [123, true];
