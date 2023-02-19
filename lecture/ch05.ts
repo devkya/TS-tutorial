@@ -13,7 +13,7 @@ const soya2 :GirfriendType = {
 
 type NameType = string;
 type AgeType = number
-type Person = NameType | AgeType;
+type PersonType= NameType | AgeType;
 
 type PositionX = { x : number };
 type PositionY = { y : number };

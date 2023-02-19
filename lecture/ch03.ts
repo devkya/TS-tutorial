@@ -14,9 +14,6 @@ let arrowFnction = (x :number) :number => {
     return x ^ 2;
 }
 
-function myFunction4(x? :number) :void{
-    console.log(x + 3)
-}
 
 // H/W
 // 01
